@@ -4,7 +4,7 @@
 </p>
 
 - ✍ I'm currently working as a final student at [HUST](https://en.hust.edu.vn/).
-- ✍ I'm curious about everything novel, especially in amazing development of AI and its applications 
+- ✍ I'm curious about everything novel, especially in amazing advancement of AI and its applications
 
 <br />
 
@@ -24,19 +24,9 @@
   <a href="mailto: nguyenvietlonghinir@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+  
 </p>
+<p align="center"> 
 
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="80%"/>
-      </p>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shanelong04&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Activity%20Statistics" alt="shanelong04" width="120%"/>
-    </td>
-    
-  </tr>
-</table>
+   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="60%"/>
+ 
