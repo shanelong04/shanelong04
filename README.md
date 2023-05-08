@@ -1,13 +1,11 @@
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Viet Long</h1>
 <p align="center">
   <h3 align="center">A passionate AI learner from Vietnam </h3>
 </p>
 
-<p align="center">
-  
 - ✍ I'm currently working as a final student at [HUST](https://en.hust.edu.vn/).
-- ✍ I'm curious about everything novel, especially in amazing advancement of AI and its applications
- </p>
+- ✍ I'm curious about everything novel, especially amazing advancement of AI and its applications in Computer Vision
  
  <br />
 
