@@ -3,10 +3,13 @@
   <h3 align="center">A passionate AI learner from Vietnam </h3>
 </p>
 
+<p align="center">
+  
 - ✍ I'm currently working as a final student at [HUST](https://en.hust.edu.vn/).
 - ✍ I'm curious about everything novel, especially in amazing advancement of AI and its applications
-
-<br />
+ </p>
+ 
+ <br />
 
 <h2 align="center"> 📫 You can reach me through: </h2>
 
@@ -24,8 +27,8 @@
   <a href="mailto: nguyenvietlonghinir@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-  
 </p>
+
 <p align="center"> 
 
    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="60%"/>
