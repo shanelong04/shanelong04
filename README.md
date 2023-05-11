@@ -5,7 +5,7 @@
 </p>
 
 - ✍ I'm currently working as a final student at [HUST](https://en.hust.edu.vn/).
-- ✍ I'm curious about everything novel, especially amazing advancement of AI and its applications in Computer Vision
+- ✍ I'm curious about everything novel, especially amazing advancement of AI and its applications in Computer Vision, Smart Health
  
  <br />
 
