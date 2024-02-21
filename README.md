@@ -4,8 +4,8 @@
   <h3 align="center">A passionate AI learner from Vietnam </h3>
 </p>
 
-- ✍ I'm currently working as a final student at [HUST](https://en.hust.edu.vn/).
-- 🔭 I'm curious about everything novel and constantly seeking new learning opportunities, especially incredible advancement of AI and its extensive applications 
+- ✍ I'm currently working as a Master's student in Computer Engineering major at [MUN](https://www.mun.ca/).
+- 🔭 I'm curious about everything novel and constantly seeking new learning opportunities, especially the incredible advancement of AI and its extensive applications 
  
  <br />
 
@@ -13,10 +13,10 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/long-nguy%E1%BB%85n-vi%E1%BA%BFt-91715a253/" target="_blank">
+  <a href="https://www.linkedin.com/in/longgviet04/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/long.nguyenviet.7967/" alt="Facebook">
+  <a href="https://www.facebook.com/longvietnguyen2904" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/shanelong04" alt="Github">
