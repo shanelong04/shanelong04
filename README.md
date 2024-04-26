@@ -1,7 +1,7 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Long Viet</h1>
 <p align="center">
-  <h3 align="center">A passionate AI learner from Vietnam </h3>
+  <h3 align="center">A passionate AI researcher from Vietnam </h3>
 </p>
 
 - ✍ I'm currently working as a Master's student in Computer Engineering major at [MUN](https://www.mun.ca/).
