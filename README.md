@@ -5,7 +5,7 @@
 </p>
 
 - ✍ I'm currently working as a Master's student in Computer Engineering major at [MUN](https://www.mun.ca/).
-- 🔭 I'm curious about everything novel and constantly seeking new learning opportunities, especially the incredible advancement of AI and its extensive applications in Wireless Communications 
+- 🔭 I'm curious about everything novel and constantly seeking new learning opportunities, especially the incredible advancement of AI and its extensive applications in Wireless Communications.
  
  <br />
 
